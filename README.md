@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola mundo 👋
 
 <h1>Hola, soy Ariel Paredes Lozada</h1>
 <h2>Formación académica</h2>
