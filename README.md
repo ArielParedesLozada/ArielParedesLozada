@@ -81,19 +81,31 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
   </tr>
 </table>
 
-## Proyectos
+## Featured Projects
 
-<table>
-  <tr>
-    <th><a href="https://github.com/ArielParedesLozada/Tamagochi-Javascript.git">Tamagochi Web con Javascript</a></th>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/ArielParedesLozada/De-A-a-Z-DS.git">Juego de la A a la Z</a></th>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/ArielParedesLozada/AI-Python.git">Investigación de AI usando Python</a></th>
-  </tr>
-</table>
+### [ja-facturacion-back](https://github.com/junta-agua-uta/ja-facturacion-back)
+
+**Description:** Professional project, deployed and in use at the Junta de Agua de Santa Rosa. Electronic invoicing system integrated with Ecuador's SRI for authorization and submission of digital vouchers, including an accounting module and multi-company support.
+<!-- PLACEHOLDER_SKIBIDI -->
+**Tech:** NestJS, Prisma, MySQL, Node.js 18+, Docker, GitHub Actions
+**Role:** PLACEHOLDER_PAPU
+**Repository:** https://github.com/junta-agua-uta/ja-facturacion-back
+
+### [Odoo-DAS](https://github.com/ArielParedesLozada/Odoo-DAS)
+
+**Description:** Academic project. E-learning platform built on Odoo 18 Community for the Academia Virtual de Tecnología, covering course e-commerce, Ecuadorian electronic invoicing with XAdES-BES signing and SRI integration, an LMS, and segmented email marketing.
+<!-- PLACEHOLDER_SKIBIDI -->
+**Tech:** Python 3.10+, Odoo 18, PostgreSQL 15, Docker Compose, Nginx, cryptography/lxml/zeep
+**Role:** PLACEHOLDER_PAPU
+**Repository:** https://github.com/ArielParedesLozada/Odoo-DAS
+
+### [mini-hackaton](https://github.com/ArielParedesLozada/mini-hackaton)
+
+**Description:** Hackathon project. Multi-agent conversational sales ecosystem for the FISEI technology transfer centre: a Telegram advisor over a real 21-course catalogue, per-message intent classification, and transparent handover to a human operator through a dashboard.
+<!-- PLACEHOLDER_SKIBIDI -->
+**Tech:** TypeScript, Node.js + grammY, Google Gemini, Supabase (PostgreSQL + Realtime), React + Vite
+**Role:** PLACEHOLDER_PAPU
+**Repository:** https://github.com/ArielParedesLozada/mini-hackaton
 
 ## Contactos
 
