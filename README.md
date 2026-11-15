@@ -13,74 +13,6 @@ Software engineering student at Universidad Técnica de Ambato, building hands-o
 
 Graduation date, availability, and work modality: PLACEHOLDER_PAPU
 
-## Tech Stack
-
-<table>
-  <tr>
-    <th colspan="4">
-      <div align="center">
-      <kbd>Backend</kbd>
-      </div>
-    </th>
-  </tr>
-  <tr>
-    <th><kbd>.NET</kbd></th>
-    <th><kbd>Spring Boot</kbd></th>
-    <th><kbd>Express</kbd></th>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/></th>
-  </tr>
-  <tr>
-    <th colspan="3">
-      <div align="center">
-      <kbd>Frontend</kbd>
-      </div>
-    </th>
-  </tr>
-  <tr>
-    <th><kbd>React</kbd></th>
-    <th><kbd>Angular</kbd></th>
-    <th><kbd>Flutter</kbd></th>
-  </tr>
-  <tr>
-    <th colspan="3">
-      <div align="center">
-      <kbd>Databases</kbd>
-      </div>
-    </th>
-  </tr>
-  <tr>
-    <th><kbd>PostgreSQL</kbd></th>
-    <th><kbd>MySQL</kbd></th>
-    <th><kbd>Oracle</kbd></th>
-  </tr>
-  <tr>
-    <th colspan="3">
-      <div align="center">
-      <kbd>DevOps</kbd>
-      </div>
-    </th>
-  </tr>
-  <tr>
-    <th><kbd>Docker</kbd></th>
-    <th><kbd>Linux</kbd></th>
-    <th><kbd>GitHub Actions</kbd></th>
-  </tr>
-  <tr>
-    <th colspan="5">
-      <div align="center">
-      <kbd>Languages</kbd>
-      </div>
-    </th>
-  </tr>
-  <tr>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></th>
-    <th><kbd>C#</kbd></th>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></th>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></th>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></th>
-  </tr>
-</table>
-
 ## Featured Projects
 
 ### [ja-facturacion-back](https://github.com/junta-agua-uta/ja-facturacion-back)
@@ -107,8 +39,6 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
 **Role:** PLACEHOLDER_PAPU
 **Repository:** https://github.com/ArielParedesLozada/mini-hackaton
 
-## More Projects
-
 <details>
 <summary>More projects</summary>
 
@@ -121,6 +51,61 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
 - [AI-Python](https://github.com/ArielParedesLozada/AI-Python) — AI research using Python.
 
 </details>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <th colspan="3"><kbd>Backend</kbd></th>
+  </tr>
+  <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg"/><br><sub>.NET</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/><br><sub>Spring Boot</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/><br><sub>Express</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/><br><sub>Laravel</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="3"><kbd>Frontend</kbd></th>
+  </tr>
+  <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br><sub>React</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg"/><br><sub>Angular</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"/><br><sub>Flutter</sub></td>
+  </tr>
+  <tr>
+    <th colspan="3"><kbd>Databases</kbd></th>
+  </tr>
+  <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/><br><sub>PostgreSQL</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><br><sub>MySQL</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/><br><sub>Oracle</sub></td>
+  </tr>
+  <tr>
+    <th colspan="3"><kbd>DevOps</kbd></th>
+  </tr>
+  <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/><br><sub>Docker</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><br><sub>Linux</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/><br><sub>GitHub Actions</sub></td>
+  </tr>
+  <tr>
+    <th colspan="3"><kbd>Languages</kbd></th>
+  </tr>
+  <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/><br><sub>Java</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/><br><sub>C#</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br><sub>Python</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><br><sub>PHP</sub></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><br><sub>C</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Contact
 
