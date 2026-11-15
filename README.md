@@ -17,40 +17,67 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
 
 <table>
   <tr>
+    <th colspan="4">
+      <div align="center">
+      <kbd>Backend</kbd>
+      </div>
+    </th>
+  </tr>
+  <tr>
+    <th><kbd>.NET</kbd></th>
+    <th><kbd>Spring Boot</kbd></th>
+    <th><kbd>Express</kbd></th>
+    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/></th>
+  </tr>
+  <tr>
     <th colspan="3">
       <div align="center">
-      <kbd>Lenguajes de programación</kbd>
+      <kbd>Frontend</kbd>
+      </div>
+    </th>
+  </tr>
+  <tr>
+    <th><kbd>React</kbd></th>
+    <th><kbd>Angular</kbd></th>
+    <th><kbd>Flutter</kbd></th>
+  </tr>
+  <tr>
+    <th colspan="3">
+      <div align="center">
+      <kbd>Databases</kbd>
+      </div>
+    </th>
+  </tr>
+  <tr>
+    <th><kbd>PostgreSQL</kbd></th>
+    <th><kbd>MySQL</kbd></th>
+    <th><kbd>Oracle</kbd></th>
+  </tr>
+  <tr>
+    <th colspan="3">
+      <div align="center">
+      <kbd>DevOps</kbd>
+      </div>
+    </th>
+  </tr>
+  <tr>
+    <th><kbd>Docker</kbd></th>
+    <th><kbd>Linux</kbd></th>
+    <th><kbd>GitHub Actions</kbd></th>
+  </tr>
+  <tr>
+    <th colspan="5">
+      <div align="center">
+      <kbd>Languages</kbd>
       </div>
     </th>
   </tr>
   <tr>
     <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></th>
+    <th><kbd>C#</kbd></th>
     <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></th>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></th>
-  </tr>
-  <tr>
-    <th colspan="3">
-      <div align="center">
-      <kbd>Desarrollo web</kbd>
-      </div>
-    </th>
-  </tr>
-  <tr>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></th>
     <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></th>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></th>    
-  </tr>
-  <tr>
-    <th colspan="3">
-      <div align="center">
-      <kbd>Frameworks</kbd>
-      </div>
-    </th>
-  </tr>
-  <tr>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/></th>
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></th>    
-    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></th>    
+    <th><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></th>
   </tr>
 </table>
 
