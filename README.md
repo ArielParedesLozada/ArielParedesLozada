@@ -1,12 +1,19 @@
-## Hola mundo 👋
 <div align="center">
 
-## Soy Ariel Paredes Lozada
+# Ariel Paredes Lozada
+
+### Software engineering student aiming for roles in data analysis, DevOps, or operating systems
 
 <img src="navi.png" alt="imagen-sin-relacion"/>
-<p>Estudiante de ingeniería de software en la <a href="www.uta.edu.ec">Universidad Técnica de Ambato</a> </p>
+<p>Software engineering student at <a href="https://www.uta.edu.ec">Universidad Técnica de Ambato</a></p>
 
-## Herramientas
+## About
+
+Software engineering student at Universidad Técnica de Ambato, building hands-on experience with deployed systems, academic platforms, and hackathon projects. Looking for opportunities in data analysis, DevOps, or operating systems.
+
+Graduation date, availability, and work modality: PLACEHOLDER_PAPU
+
+## Tech Stack
 
 <table>
   <tr>
@@ -61,28 +68,6 @@
   </tr>
 </table>
 
-## Acerca de mí
-
-<details>
-<summary>Información personal</summary>
-<br>
-<img src="scp.ico" alt="Acceso restringido"/>
-</details>
-
-<details>
-<summary>Gustos</summary>
-<div align="left">
-<br>
-- Me gusta nadar
-<br>
-- Me gusta leer
-<br>
-- Me gustan las matemáticas
-<br>
-- Me gusta hacer ejercicio
-</div>
-</details>
-
 ## Contactos
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArielParedesLozada)
@@ -90,18 +75,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateoparedeskt1800@gmail.com)
 
 </div>
-
-<!--
-Poner formación acadámica, proyectos, etc.
-Investiga cómo hacer un portafolio en GitHub
-**ArielParedesLozada/ArielParedesLozada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
