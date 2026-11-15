@@ -15,29 +15,56 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
 
 ## Featured Projects
 
-### [ja-facturacion-back](https://github.com/junta-agua-uta/ja-facturacion-back)
+<table>
+<tr>
+<td width="100%">
 
-**Description:** Professional project, deployed and in use at the Junta de Agua de Santa Rosa. Electronic invoicing system integrated with Ecuador's SRI for authorization and submission of digital vouchers, including an accounting module and multi-company support.
+### 🧾 [ja-facturacion-back](https://github.com/junta-agua-uta/ja-facturacion-back)
+
+![Deployed](https://img.shields.io/badge/Status-Deployed-success?style=flat-square) ![Professional](https://img.shields.io/badge/Type-Professional-blue?style=flat-square)
+
+Professional project, deployed and in use at the Junta de Agua de Santa Rosa. Electronic invoicing system integrated with Ecuador's SRI for authorization and submission of digital vouchers, including an accounting module and multi-company support.
 <!-- PLACEHOLDER_SKIBIDI -->
-**Tech:** NestJS, Prisma, MySQL, Node.js 18+, Docker, GitHub Actions
-**Role:** PLACEHOLDER_PAPU
-**Repository:** https://github.com/junta-agua-uta/ja-facturacion-back
 
-### [Odoo-DAS](https://github.com/ArielParedesLozada/Odoo-DAS)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_18+-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Description:** Academic project. E-learning platform built on Odoo 18 Community for the Academia Virtual de Tecnología, covering course e-commerce, Ecuadorian electronic invoicing with XAdES-BES signing and SRI integration, an LMS, and segmented email marketing.
+**Role:** PLACEHOLDER_PAPU &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/junta-agua-uta/ja-facturacion-back)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🎓 [Odoo-DAS](https://github.com/ArielParedesLozada/Odoo-DAS)
+
+![Academic](https://img.shields.io/badge/Type-Academic-orange?style=flat-square)
+
+Academic project. E-learning platform built on Odoo 18 Community for the Academia Virtual de Tecnología, covering course e-commerce, Ecuadorian electronic invoicing with XAdES-BES signing and SRI integration, an LMS, and segmented email marketing.
 <!-- PLACEHOLDER_SKIBIDI -->
-**Tech:** Python 3.10+, Odoo 18, PostgreSQL 15, Docker Compose, Nginx, cryptography/lxml/zeep
-**Role:** PLACEHOLDER_PAPU
-**Repository:** https://github.com/ArielParedesLozada/Odoo-DAS
 
-### [mini-hackaton](https://github.com/ArielParedesLozada/mini-hackaton)
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo_18-714B67?style=flat-square&logo=odoo&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Description:** Hackathon project. Multi-agent conversational sales ecosystem for the FISEI technology transfer centre: a Telegram advisor over a real 21-course catalogue, per-message intent classification, and transparent handover to a human operator through a dashboard.
+**Role:** PLACEHOLDER_PAPU &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/ArielParedesLozada/Odoo-DAS)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🚀 [mini-hackaton](https://github.com/ArielParedesLozada/mini-hackaton)
+
+![Hackathon](https://img.shields.io/badge/Type-Hackathon-purple?style=flat-square)
+
+Hackathon project. Multi-agent conversational sales ecosystem for the FISEI technology transfer centre: a Telegram advisor over a real 21-course catalogue, per-message intent classification, and transparent handover to a human operator through a dashboard.
 <!-- PLACEHOLDER_SKIBIDI -->
-**Tech:** TypeScript, Node.js + grammY, Google Gemini, Supabase (PostgreSQL + Realtime), React + Vite
-**Role:** PLACEHOLDER_PAPU
-**Repository:** https://github.com/ArielParedesLozada/mini-hackaton
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_+_grammY-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/React_+_Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Role:** PLACEHOLDER_PAPU &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/ArielParedesLozada/mini-hackaton)
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>More projects</summary>
