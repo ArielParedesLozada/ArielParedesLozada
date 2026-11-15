@@ -64,9 +64,9 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
     <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/><br><sub>Express</sub></td>
   </tr>
   <tr>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/><br><sub>NestJS</sub></td>
     <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/><br><sub>Laravel</sub></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/><br><sub>Django</sub></td>
   </tr>
   <tr>
     <th colspan="3"><kbd>Frontend</kbd></th>
@@ -103,7 +103,7 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
   <tr>
     <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><br><sub>PHP</sub></td>
     <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><br><sub>C</sub></td>
-    <td></td>
+    <td align="center"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/><br><sub>TypeScript</sub></td>
   </tr>
 </table>
 
