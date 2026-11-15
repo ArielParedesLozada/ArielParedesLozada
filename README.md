@@ -107,10 +107,26 @@ Graduation date, availability, and work modality: PLACEHOLDER_PAPU
 **Role:** PLACEHOLDER_PAPU
 **Repository:** https://github.com/ArielParedesLozada/mini-hackaton
 
-## Contactos
+## More Projects
+
+<details>
+<summary>More projects</summary>
+
+- [SSIS_HEFESTO](https://github.com/ArielParedesLozada/SSIS_HEFESTO) — Business intelligence project using SSAS/SSIS and SQL Server.
+- [proyecto-tesis](https://github.com/ArielParedesLozada/proyecto-tesis) — Thesis work developed for Plasticaucho.
+- [Proyecto-Final-Distribuidas](https://github.com/ArielParedesLozada/Proyecto-Final-Distribuidas) — Distributed systems project built around microservices.
+- [Proyecto-Seguridad](https://github.com/ArielParedesLozada/Proyecto-Seguridad) — Software security project: a lightweight Overleaf clone.
+- [Tamagochi-Javascript](https://github.com/ArielParedesLozada/Tamagochi-Javascript) — Web Tamagotchi built with JavaScript.
+- [De-A-a-Z-DS](https://github.com/ArielParedesLozada/De-A-a-Z-DS) — A-to-Z data structures game.
+- [AI-Python](https://github.com/ArielParedesLozada/AI-Python) — AI research using Python.
+
+</details>
+
+## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArielParedesLozada)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:aparedes3001@uta.edu.ec)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateoparedeskt1800@gmail.com)
+
+LinkedIn: PLACEHOLDER_PAPU
 
 </div>
