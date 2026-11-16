@@ -15,7 +15,7 @@
 
 Software engineering student at Universidad Técnica de Ambato, building hands-on experience with deployed systems, academic platforms, and hackathon projects. Looking for opportunities in data analysis, DevOps, or operating systems.
 
-Graduation date, availability, and work modality: PLACEHOLDER_PAPU
+Graduation date, availability, and work modality: Available
 
 </td>
 </tr>
@@ -36,7 +36,7 @@ Professional project, deployed and in use at the Junta de Agua de Santa Rosa. El
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_18+-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Role:** PLACEHOLDER_PAPU &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/junta-agua-uta/ja-facturacion-back)
+**Role:** Accounting module developer &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/junta-agua-uta/ja-facturacion-back)
 
 </td>
 </tr>
@@ -52,7 +52,7 @@ Academic project. E-learning platform built on Odoo 18 Community for the Academi
 
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo_18-714B67?style=flat-square&logo=odoo&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Role:** PLACEHOLDER_PAPU &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/ArielParedesLozada/Odoo-DAS)
+**Role:** Certification and Survey module developer &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/ArielParedesLozada/Odoo-DAS)
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Hackathon project. Multi-agent conversational sales ecosystem for the FISEI tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_+_grammY-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/React_+_Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Role:** PLACEHOLDER_PAPU &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/ArielParedesLozada/mini-hackaton)
+**Role:** Backend developer &nbsp;·&nbsp; **Repository:** [↗ View on GitHub](https://github.com/ArielParedesLozada/mini-hackaton)
 
 </td>
 </tr>
@@ -166,9 +166,7 @@ Hackathon project. Multi-agent conversational sales ecosystem for the FISEI tech
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArielParedesLozada)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:aparedes3001@uta.edu.ec)
-
-LinkedIn: PLACEHOLDER_PAPU
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-paredes-lozada-377685409)
 </td>
 </tr>
 </table>
