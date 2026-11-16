@@ -9,9 +9,17 @@
 
 ## About
 
+<table>
+<tr>
+<td width="100%">
+
 Software engineering student at Universidad Técnica de Ambato, building hands-on experience with deployed systems, academic platforms, and hackathon projects. Looking for opportunities in data analysis, DevOps, or operating systems.
 
 Graduation date, availability, and work modality: PLACEHOLDER_PAPU
+
+</td>
+</tr>
+</table>
 
 ## Featured Projects
 
@@ -66,6 +74,10 @@ Hackathon project. Multi-agent conversational sales ecosystem for the FISEI tech
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="100%">
+
 <details>
 <summary>More projects</summary>
 
@@ -79,7 +91,15 @@ Hackathon project. Multi-agent conversational sales ecosystem for the FISEI tech
 
 </details>
 
+</td>
+</tr>
+</table>
+
 ## Tech Stack
+
+<table>
+<tr>
+<td width="100%">
 
 <table>
   <tr>
@@ -134,11 +154,23 @@ Hackathon project. Multi-agent conversational sales ecosystem for the FISEI tech
   </tr>
 </table>
 
+</td>
+</tr>
+</table>
+
 ## Contact
+
+<table>
+<tr>
+<td width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArielParedesLozada)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:aparedes3001@uta.edu.ec)
 
 LinkedIn: PLACEHOLDER_PAPU
+
+</td>
+</tr>
+</table>
 
 </div>
